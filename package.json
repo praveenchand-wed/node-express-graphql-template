@@ -68,7 +68,7 @@
     "sqlite3": "^5.0.0",
     "stream": "^0.0.2",
     "superagent": "^6.1.0",
-    "supertest": "^4.0.2",
+    "supertest": "^6.0.1",
     "tedious": "^9.2.1",
     "tls": "^0.0.1",
     "webpack": "4.30.0",
